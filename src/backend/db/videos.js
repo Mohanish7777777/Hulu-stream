@@ -5,8 +5,8 @@
 
 export const videos = [
   {
-    _id: "L23I_XopoA0",
-    title: "Silverton Siege",
+    _id: "Rp34aDpWvpTZ2R",
+    title: "The Village",
     imgurl:"https://i.ytimg.com/vi/L23I_XopoA0/maxresdefault.jpg",
     viewCount: "932102",
     publishedAt: "2022-03-24T08:00:00Z",
