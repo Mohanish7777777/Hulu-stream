@@ -29,7 +29,7 @@ export const videos = [
   {
     _id: "tFMo3UJ4B4g",
     title: "Arrival (2016)",
-    imgurl:"https://nmovies.netlify.app/movies-images/english-movies/arrival.jpg",
+    imgurl:"",
     viewCount: "23365125",
     publishedAt: "2016-08-16T14:00:03Z",
     channelTitle: "HBO",
@@ -40,7 +40,7 @@ export const videos = [
   {
     _id: "FDJDujWJhzw",
     title: "Fantasy Island",
-    imgurl:"https://nmovies.netlify.app/movies-images/english-movies/fantasyisland.jpg",
+    imgurl:"",
     viewCount: "405359",
     publishedAt: "2020-01-30T12:30:53Z",
     channelTitle: "Netflix",
@@ -52,7 +52,7 @@ export const videos = [
   {
     _id: "INJ2bPFy108",
     title: "Bird Box ",
-    imgurl:"https://nmovies.netlify.app/movies-images/english-movies/bird-box.jpg",
+    imgurl:"",
     viewCount: "2824581",
     publishedAt: "2018-12-11T20:00:01Z",
     channelTitle: "Netflix",
@@ -64,7 +64,7 @@ export const videos = [
   {
     _id: "KGC6vl3lzf0",
     title: "Queen",
-    imgurl:"https://nmovies.netlify.app/movies-images/hindi-movies/queen.jpg",
+    imgurl:"",
     viewCount: "6118596",
     publishedAt: "2013-12-20T19:26:49Z",
     channelTitle: "Prime",
@@ -76,7 +76,7 @@ export const videos = [
   {
     _id: "qN_9DnBh3hM",
     title: "Parmanu",
-    imgurl:"https://nmovies.netlify.app/movies-images/hindi-movies/parmanu.jpg",
+    imgurl:"",
     viewCount: "3859597",
     publishedAt: "2018-05-11T10:22:59Z",
     channelTitle: "Netflix",
