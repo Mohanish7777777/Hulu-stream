@@ -18,7 +18,7 @@ export const videos = [
   {
     _id: "Y-ufZuqTd5c",
     title: "The Silence",
-    imgurl:"https://nmovies.netlify.app/movies-images/english-movies/the-silence.jpg",
+    imgurl:"",
     viewCount: "7588994",
     publishedAt: "2019-03-29T15:00:04Z",
     channelTitle: "Netflix",
